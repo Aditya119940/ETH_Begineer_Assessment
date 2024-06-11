@@ -45,7 +45,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "contractOne" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it using the functions creted tomint and burn the tokens. Also, we can see the updated values every time by accessing the value of "Token_Supply" variable. Further, we can mint token using the "mint" function and we can burn the tokens using the burn "function" by providing the values for the necessary parameters. The working of the programcan be very easily understood by studying the code as given above.
+Once the contract is deployed, you can interact with it using the functions creted tomint and burn the tokens. Also, we can see the updated values every time by accessing the value of "Token_Supply" variable. Further, we can mint token using the "mint" function and we can burn the tokens using the burn "function" by providing the values for the necessary parameters. The working of the program can be very easily understood by studying the code as given above.
 
 ## Authors
 
